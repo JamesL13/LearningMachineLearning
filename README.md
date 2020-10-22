@@ -13,7 +13,10 @@ This is just a space for me to push to git some of the exercises I am doing to l
 <li>Ryzen 9 3900x</li>
 
 <li>GTX 1080</li>
+
+<li>Using Tensorflow 2.3 on CPU</li>
 </ul>
 
 Currently using the SentDex Python Machine Learning Tutorials
 
+The plan is to switch to GPU once wsl2 GPU support is released to a beta branch of Windows
